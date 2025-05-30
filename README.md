@@ -8,14 +8,14 @@ Easy install script for [lostya's tag](https://github.com/lostyawolfer/lostyas_t
 ### 🐧GNU/Linux
 **For install script:**
 ```
-curl -sSL sh-tag.aartzz.pp.ua | bash
+curl -sSL https://sh-tag.aartzz.pp.ua | bash
 ```
 
 ---
 
 **For update script:**
 ```
-curl -sSL upd-sh-tag.aartzz.pp.ua | bash
+curl -sSL https://upd-sh-tag.aartzz.pp.ua | bash
 ```
 
 ### 🪟Windows
